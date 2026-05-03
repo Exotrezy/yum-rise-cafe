@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;600;700;800;900&family=Urbanist:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -82,11 +82,11 @@
   * { @apply border-border; }
   body {
     @apply bg-background text-foreground;
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: 'Urbanist', system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
   }
   h1, h2, h3, h4, .font-display {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Epilogue', system-ui, sans-serif;
     letter-spacing: -0.02em;
   }
 }

@@ -68,8 +68,8 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        display: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        display: ['Epilogue', 'system-ui', 'sans-serif'],
+        sans: ['Urbanist', 'system-ui', 'sans-serif'],
       },
       keyframes: {
         "accordion-down": {
