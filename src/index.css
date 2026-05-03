@@ -7,52 +7,52 @@
 @layer base {
   :root {
     /* Yum Rise Cafe — warm Thai-inspired palette */
-    --background: 36 33% 97%;
-    --foreground: 20 30% 12%;
+    --background: 24 12% 6%;
+    --foreground: 36 30% 94%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 20 30% 12%;
+    --card: 24 10% 9%;
+    --card-foreground: 36 30% 94%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 20 30% 12%;
+    --popover: 24 10% 9%;
+    --popover-foreground: 36 30% 94%;
 
-    /* Deep terracotta / chili red */
-    --primary: 12 65% 38%;
-    --primary-foreground: 36 33% 97%;
-    --primary-glow: 14 78% 52%;
+    /* Warm chili red kept as primary */
+    --primary: 14 78% 52%;
+    --primary-foreground: 24 12% 6%;
+    --primary-glow: 16 85% 60%;
 
-    /* Warm cream */
-    --secondary: 36 40% 92%;
-    --secondary-foreground: 20 30% 18%;
+    /* Deep warm charcoal */
+    --secondary: 24 10% 13%;
+    --secondary-foreground: 36 30% 94%;
 
-    --muted: 34 25% 90%;
-    --muted-foreground: 20 14% 38%;
+    --muted: 24 8% 15%;
+    --muted-foreground: 30 12% 65%;
 
-    /* Subtle gold */
-    --accent: 38 65% 52%;
-    --accent-foreground: 20 30% 12%;
-    --gold: 38 65% 52%;
-    --gold-soft: 40 55% 78%;
+    /* Gold accent */
+    --accent: 40 75% 58%;
+    --accent-foreground: 24 12% 6%;
+    --gold: 40 75% 58%;
+    --gold-soft: 40 55% 70%;
 
-    --destructive: 0 70% 45%;
-    --destructive-foreground: 36 33% 97%;
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 36 30% 94%;
 
-    --border: 32 20% 86%;
-    --input: 32 20% 86%;
-    --ring: 12 65% 38%;
+    --border: 24 8% 18%;
+    --input: 24 8% 18%;
+    --ring: 14 78% 52%;
 
     --radius: 0.75rem;
 
     /* Gradients */
-    --gradient-warm: linear-gradient(135deg, hsl(12 65% 38%), hsl(20 75% 48%));
-    --gradient-gold: linear-gradient(135deg, hsl(38 65% 52%), hsl(40 75% 62%));
-    --gradient-overlay: linear-gradient(180deg, hsl(20 30% 8% / 0.2) 0%, hsl(20 30% 8% / 0.85) 100%);
-    --gradient-cream: linear-gradient(180deg, hsl(36 33% 97%), hsl(36 40% 92%));
+    --gradient-warm: linear-gradient(135deg, hsl(14 78% 52%), hsl(20 85% 58%));
+    --gradient-gold: linear-gradient(135deg, hsl(40 75% 58%), hsl(44 80% 68%));
+    --gradient-overlay: linear-gradient(180deg, hsl(0 0% 0% / 0.3) 0%, hsl(0 0% 0% / 0.9) 100%);
+    --gradient-cream: linear-gradient(180deg, hsl(24 12% 6%), hsl(24 10% 10%));
 
     /* Shadows */
-    --shadow-warm: 0 20px 60px -20px hsl(12 65% 38% / 0.35);
-    --shadow-soft: 0 8px 30px -8px hsl(20 30% 12% / 0.12);
-    --shadow-gold: 0 10px 40px -10px hsl(38 65% 52% / 0.4);
+    --shadow-warm: 0 20px 60px -20px hsl(14 78% 52% / 0.45);
+    --shadow-soft: 0 8px 30px -8px hsl(0 0% 0% / 0.5);
+    --shadow-gold: 0 10px 40px -10px hsl(40 75% 58% / 0.5);
 
     --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   }
