@@ -7,9 +7,9 @@
 @layer base {
   :root {
     /* Yum Rise Cafe — warm Thai-inspired palette */
-    /* Dark background, light surfaces everywhere else */
-    --background: 24 12% 6%;
-    --foreground: 36 30% 94%;
+    /* Light, warm cream theme */
+    --background: 36 33% 97%;
+    --foreground: 20 30% 12%;
 
     --card: 0 0% 100%;
     --card-foreground: 20 30% 12%;
