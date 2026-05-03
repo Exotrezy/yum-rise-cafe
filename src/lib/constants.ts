@@ -5,7 +5,7 @@ export const RESTAURANT = {
   name: "Yum Rise Cafe",
   tagline: "Bold Thai Flavors, Crafted with Heart",
   address: "11020 Harlem Road, Suite 700",
-  phone: "(555) 123-4567",
+  phone: "(281) 762-0884",
   hours: [
     { day: "Mon – Thu", time: "11:00 AM – 9:00 PM" },
     { day: "Fri – Sat", time: "11:00 AM – 10:00 PM" },
