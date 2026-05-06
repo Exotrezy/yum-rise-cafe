@@ -11,10 +11,10 @@ import rice from "@/assets/dish-rice.jpg";
 import pork from "@/assets/dish-pork.jpg";
 
 const popularDishes = [
-  { name: "Crispy Thai Wings", desc: "Ultra-crispy, perfectly sauced.", price: "12.95", img: wings },
-  { name: "Drunken Noodles", desc: "Wok-tossed with basil & chili.", price: "16.95", img: noodles },
-  { name: "Pineapple Fried Rice", desc: "Served in a fresh pineapple.", price: "15.95", img: rice },
-  { name: "Crispy Pork Belly", desc: "Sweet chili glaze, fresh herbs.", price: "13.95", img: pork },
+  { name: "Chicken Satay", desc: "Ultra-crispy, perfectly sauced.", price: "12.95", img: wings },
+  { name: "Pad Thai", desc: "Wok-tossed with basil & chili.", price: "16.95", img: noodles },
+  { name: "Crab Fried Rice", desc: "Served in a fresh pineapple.", price: "15.95", img: rice },
+  { name: "Crispy Chicken Larb", desc: "Sweet chili glaze, fresh herbs.", price: "13.95", img: pork },
 ];
 
 const Index = () => {
