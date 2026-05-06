@@ -11,10 +11,10 @@ import rice from "@/assets/dish-rice.jpg";
 import crispy_chicken from "@/assets/crispy_chicken.webp";
 
 const popularDishes = [
-  { name: "Chicken Satay", desc: "Ultra-crispy, perfectly sauced.", price: "12.95", img: chicken_satay },
-  { name: "Pad Thai", desc: "Wok-tossed with basil & chili.", price: "16.95", img: noodles },
-  { name: "Crab Fried Rice", desc: "Served in a fresh pineapple.", price: "15.95", img: rice },
-  { name: "Crispy Chicken Larb", desc: "Sweet chili glaze, fresh herbs.", price: "13.95", img: crispy_chicken },
+  { name: "Chicken Satay", desc: "Grilled skewers with rich peanut sauce.", price: "12.95", img: chicken_satay },
+  { name: "Pad Thai", desc: "Sweet-savory noodles with crushed peanuts and lime.", price: "16.95", img: noodles },
+  { name: "Crab Fried Rice", desc: "Jumbo lump crab folded into fragrant rice.", price: "15.95", img: rice },
+  { name: "Crispy Chicken Larb", desc: "Crispy chicken tossed with fresh herbs, lime, and Thai chili.", price: "13.95", img: crispy_chicken },
 ];
 
 const Index = () => {
