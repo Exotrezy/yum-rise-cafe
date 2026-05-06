@@ -1,7 +1,7 @@
 import chicken_satay from "@/assets/dish-chickensatay.jpg";
 import noodles from "@/assets/dish-noodles.jpg";
 import rice from "@/assets/dish-rice.jpg";
-import crispy_chicken from "@/assets/dish-crispy_chicken.jpg";
+import crispy_chicken from "@/assets/dish-crispychicken.jpg";
 
 export type MenuItem = {
   name: string;
