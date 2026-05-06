@@ -20,8 +20,8 @@ export const menu: MenuCategory[] = [
   {
     name: "Appetizers",
     items: [
-      { name: "Chicken Satay", description: "Grilled skewers with rich peanut sauce.", price: "12.95", image: wings, popular: true },
-      { name: "Crispy Chicken Larb", description: "Crispy chicken tossed with fresh herbs, lime, and Thai chili.", price: "13.95", image: pork, popular: true },
+      { name: "Chicken Satay", description: "Grilled skewers with rich peanut sauce.", price: "12.95", image: chicken_satay, popular: true },
+      { name: "Crispy Chicken Larb", description: "Crispy chicken tossed with fresh herbs, lime, and Thai chili.", price: "13.95", image: crispy_chicken, popular: true },
       { name: "Crab Rangoon", description: "Crispy wontons stuffed with cream cheese and crab, served with sweet & sour.", price: "8.95" },
       { name: "Fresh Spring Rolls", description: "Rice paper rolls with shrimp, vermicelli, herbs, and peanut sauce.", price: "9.50" },
     ],
