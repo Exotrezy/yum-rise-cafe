@@ -8,7 +8,7 @@ import heroImg from "@/assets/hero-food.jpg";
 import chicken_satay from "@/assets/dish-chickensatay.jpg";
 import noodles from "@/assets/dish-noodles.jpg";
 import rice from "@/assets/dish-rice.jpg";
-import crispy_chicken from "@/assets/dish-crispy_chicken.jpg";
+import crispy_chicken from "@/assets/crispy_chicken.webp";
 
 const popularDishes = [
   { name: "Chicken Satay", desc: "Ultra-crispy, perfectly sauced.", price: "12.95", img: chicken_satay },
