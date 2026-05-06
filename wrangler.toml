@@ -1,5 +1,0 @@
-name = "yum-rise-cafe"
-pages_build_output_dir = "./dist"
-
-[vars]
-# If your Lovable app uses any API keys, put them here
