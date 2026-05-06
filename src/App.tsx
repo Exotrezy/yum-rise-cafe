@@ -9,6 +9,7 @@ import About from "./pages/About.tsx";
 import Reviews from "./pages/Reviews.tsx";
 import Contact from "./pages/Contact.tsx";
 import NotFound from "./pages/NotFound.tsx";
+import Order from "./pages/Order.tsx";
 
 const queryClient = new QueryClient();
 
