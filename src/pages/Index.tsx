@@ -8,13 +8,13 @@ import heroImg from "@/assets/hero-food.jpg";
 import chicken_satay from "@/assets/dish-chickensatay.jpg";
 import noodles from "@/assets/dish-noodles.jpg";
 import rice from "@/assets/dish-rice.jpg";
-import crispy_chicken from "@/assets/dish-crispychicken.jpg";
+import crispychicken from "@/assets/dish-crispychicken.jpg";
 
 const popularDishes = [
   { name: "Chicken Satay", desc: "Ultra-crispy, perfectly sauced.", price: "12.95", img: chicken_satay },
   { name: "Pad Thai", desc: "Wok-tossed with basil & chili.", price: "16.95", img: noodles },
   { name: "Crab Fried Rice", desc: "Served in a fresh pineapple.", price: "15.95", img: rice },
-  { name: "Crispy Chicken Larb", desc: "Sweet chili glaze, fresh herbs.", price: "13.95", img: crispy_chicken },
+  { name: "Crispy Chicken Larb", desc: "Sweet chili glaze, fresh herbs.", price: "13.95", img: crispychicken },
 ];
 
 const Index = () => {
