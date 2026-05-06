@@ -1,1 +1,0 @@
-<iframe src="https://www.toasttab.com/local/order/yumrisecafe-11020-harlem-road-suite-700" width="100%" height="800px" frameborder="0"></iframe>
